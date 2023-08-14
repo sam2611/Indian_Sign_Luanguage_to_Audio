@@ -1,7 +1,7 @@
 # Indian_Sign_Luanguage_to_Audio
 
 Introduction
-Our project is an effort towards studying the challenges in the classification of characters in Indian Sign Language(ISL). It aims at taking the basic step in bridging the communication gap between normal people and deaf and dumb people using Indian sign language. The idea of our -project is to design a system that can interpret the Indian sign language in the domain of numerals accurately so that the less fortunate people will be able to communicate with the outside world without the need for an interpreter in public places like railway stations, banks, etc.
+Our project is an effort towards studying the challenges in the classification of characters in Indian Sign Language(ISL). It aims at taking the basic step in bridging the communication gap between normal people, blind people and deaf and dumb people using Indian sign language. The idea of our -project is to design a system that can interpret the Indian sign language in the domain of numerals accurately so that the less fortunate people will be able to communicate with the outside world without the need for an interpreter in public places like railway stations, banks, etc.
 The Dataset of our project contains 43,200 images, and a total of 26 alphabets (A-Z) and Single Digit Numbers (0-9) are taken into consideration for overall training and testing of the model. We have used a CNN Model for the prediction of the alphabet and/or numbers. Training of CNN is done with the help of the ReLu activation function, and we have plotted graphs to check improvement in the model. After the prediction, we converted the output to audio format.
 
 <img src="fig1.png" >
